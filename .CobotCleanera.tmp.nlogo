@@ -207,7 +207,7 @@ SLIDER
 124
 human-count
 human-count
-1
+0
 5
 1.0
 1
